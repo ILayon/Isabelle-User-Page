@@ -24,10 +24,10 @@ Besides my courses, I have experienced programming and wiring robots during the 
 robot](arduinoproject.jpg) for a high school project in 2022. 
 
 ## Future Goals
--[ ] Learn HTML
--[ ] Learn how to create a website
--[ ] Add 2 projects to my resume
--[ ] Land an internship
+- [ ] Learn HTML
+- [ ] Learn how to create a website
+- [ ] Add 2 projects to my resume
+- [ ] Land an internship
 
 ## End
 ![segfault meme](segfaultmeme.jpg)
